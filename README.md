@@ -1,0 +1,1 @@
+Creación de una tabla dinámica mediante la utilización de la biblioteca de JavaScript "DataTable", la cual se conecta con una API de prueba proveniente de la página "{JSON} Placeholder". Se consigue la capacidad de interactuar con los controles de búsqueda y se exhiben más datos. Para concluir, se aplica estilo al contenido de la tabla utilizando Bootstrap 5.
